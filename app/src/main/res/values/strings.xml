@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="hello_to_diceroller">Hello to DiceRoller</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dicerollar">DiceRollar</string>
+    <string name="sign_in_with_social_account">Sign in with social account</string>
+    <string name="don_t_remember_password">Don\'t Remember Password?</string>
+</resources>
